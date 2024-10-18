@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.one{
+    color: green;
+}
+nav{
+    background-color:black;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+li,h2,ul{
+    display: inline;
+}
+ul{
+    margin-left: 68%;
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    color: gray  ;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 8px;
+}
+.searchbar{
+    padding: 45px;
+    text-align: center;
+    color:greenyellow;
+}
+    
+
+.box{
+    border: color( green);
+    padding-left: 0px;
+    padding-right:0px ;
+    border: 0px;
+    border: width 0%;;
+    border-style:solid ;
+    display: inline-block;
+}
+.large-text {
+    font-size: 24px;
+    padding-left: 10%;
+}
+    .box{
+        padding-left: 10%;
+
+}
+
+
+
+
+    
+
+    
+
+
+    
+    
+
+    
+
